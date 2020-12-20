@@ -15,10 +15,10 @@ V = np.zeros(n)
 V[0:a] = d
 V[b:n] = d
 3. The finite barrier
-# Barrier height
+# barrier height
 h = 5
 
-# Barrier Width (spans one-third of the x axis range)
+# barrier width (spans one-third of the x axis range)
 a = int(n/3)
 b = int(2*n/3)
 
