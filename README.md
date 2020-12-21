@@ -8,7 +8,7 @@ V = x**2
 well depth
 d = 5
 
-# well width (spans one-third of the x axis range)
+well width (spans one-third of the x axis range)
 a = int(n/3)
 b = int(2*n/3)
 
