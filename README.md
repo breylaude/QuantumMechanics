@@ -1,5 +1,5 @@
 # Quantum Mechanical Systems
-This generic code solves for, and plots, the eigenfunctions and eigenvalues of a particle in a one-dimensional potential, based on the finite difference method code introduced by @mholtrop. The potential array may be modified by the user. Interesting potentials are:
+This generic code solves for, and plots, the eigenfunctions and eigenvalues of a particle in a one-dimensional potential, based on the finite difference method code. The potential array may be modified by the user. Interesting potentials are:
 
 # 1. The quantum harmonic oscillator
 V = x**2
